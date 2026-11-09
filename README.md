@@ -1,4 +1,4 @@
-# Hi, I'm Ademola Abraham 👋
+# Hi, I'm Ademola Abraham 
 
 ### Full-Stack & Mobile Engineer · AI Integration · Digital Health
 
@@ -8,7 +8,7 @@ Based in **Abuja, Nigeria** 🇳🇬. Before software, I worked in radio broadca
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -20,7 +20,7 @@ Based in **Abuja, Nigeria** 🇳🇬. Before software, I worked in radio broadca
 | **[Aura Forex](https://github.com/Zionnaire/FX_backend)** ([frontend](https://github.com/Zionnaire/FX_Frontend)) | AI-assisted trading intelligence with a rule-based signal engine, RAG knowledge base, backtesting, and MT5 execution with human approval | Next.js, Express, TypeScript, WebSockets, Groq |
 | **[TheArk](https://github.com/Zionnaire/TheArk)** | A church community platform with feeds, real-time group chat, and WebRTC voice and video calls | Node.js, Express, MongoDB, Socket.IO |
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend & Mobile:** React · Next.js · React Native · Expo / EAS · TypeScript · Tailwind / NativeWind
 **Backend:** Node.js · Express · NestJS · MongoDB / Mongoose · PostgreSQL / Prisma · Socket.IO · Kafka · GraphQL
@@ -28,7 +28,7 @@ Based in **Abuja, Nigeria** 🇳🇬. Before software, I worked in radio broadca
 **Payments & Services:** Paystack · Flutterwave · Firebase · Cloudinary · Twilio · Microsoft Graph · WebRTC
 **DevOps:** Docker · GitHub Actions · Render · Vercel
 
-## 📫 Let's Connect
+## Let's Connect
 
 - ✉️ **Email:** zionnaire2018@gmail.com
 - 💼 **LinkedIn:** [Ademola Abraham](https://www.linkedin.com/in/ademola-abraham-488557120/)
